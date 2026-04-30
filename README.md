@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠️ Core Technologies
+## Core Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 What I do
+## What I do
 
 - Microsoft 365 administration (Intune, Autopilot, Entra ID)
 - Identity & access management (MFA, Conditional Access)
@@ -37,7 +37,7 @@
 
 ---
 
-## 🧱 Infrastructure Focus
+## Infrastructure Focus
 
 - Cloud & hybrid environments (Microsoft 365)
 - Virtual machines, networking and storage
@@ -46,13 +46,13 @@
 
 ---
 
-## 🎯 Focus
+## Focus
 
 Cloud & Infrastructure  
 → transitioning towards Azure-based environments
 
 ---
 
-## 📌 Note
+## Note
 
 This profile is used as a technical portfolio for job opportunities.
