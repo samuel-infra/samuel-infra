@@ -1,49 +1,56 @@
 # Hey 👋
 
-I'm Samuel — working within IT operations with a strong focus on Microsoft 365, infrastructure and modern workplace environments.
-
-I combine hands-on experience from production environments with lab-based work where I design, build and test complete IT setups.
+> IT Technician focused on Microsoft 365, Infrastructure and modern workplace environments  
+> Building real-world lab environments to simulate production systems
 
 ---
 
-## What I work with
+![Microsoft 365](https://img.shields.io/badge/Microsoft-365-blue)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+![Virtualization](https://img.shields.io/badge/Virtualization-Hyper--V%20%7C%20ESXi-purple)
+
+---
+
+## 🚀 What I do
+
 - Microsoft 365 administration (Intune, Autopilot, Entra ID)
-- Identity & access management (roles, MFA, conditional access basics)
-- Device lifecycle management & deployment
-- Windows environments and advanced troubleshooting
-- Virtualization platforms (Citrix XenServer, Hyper-V)
+- Identity & access management (MFA, roles, Conditional Access)
+- Device lifecycle & deployment
+- Virtualization (Citrix XenServer, Hyper-V)
+- Windows environments & advanced troubleshooting
 
 ---
 
-## Infrastructure & Labs
-I build and document real-world scenarios across:
+## 🧱 Infrastructure
 
-- Microsoft 365 tenant administration (users, security, Teams, SharePoint, Exchange)
-- Virtualization environments (VM deployment, resource allocation, networking)
-- Linux server setup and management
-- Networking fundamentals (segmentation, structure, troubleshooting)
-
-Each project is structured to simulate real company environments — not just isolated lab tasks.
+- Microsoft 365 environments (Teams, SharePoint, Exchange)
+- Virtual machines, networking & storage
+- Linux servers (DNS, DHCP, Web, Database)
+- Networking fundamentals & troubleshooting
 
 ---
 
-## Approach
-I focus on understanding systems end-to-end:
-- how identity, devices and services connect
-- how environments are structured in practice
-- how to troubleshoot and improve stability
+## 🧠 Approach
+
+- Focus on real-world environments  
+- End-to-end understanding of systems  
+- Strong troubleshooting mindset  
 
 ---
 
-##  Portfolio
-My repositories showcase hands-on environments and technical implementations rather than theory.
+## 🎯 Focus
+
+Cloud & Infrastructure  
+→ transitioning towards Azure-based environments
 
 ---
 
-## Focus
-Cloud & Infrastructure — with a long-term goal of working in Azure-based environments and modern IT operations.
+## 📊 GitHub Stats
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-infra&show_icons=true&theme=dark)
 
 ---
 
-## Note
-This profile is used as a technical portfolio for job opportunities and professional development.
+## 📌 Note
+
+This profile is used as a technical portfolio for job opportunities.
