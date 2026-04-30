@@ -8,20 +8,13 @@
 ## Core Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entra%20ID-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Hyper--V-0089D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/Citrix-0078D4?style=for-the-badge&logo=citrix&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" />
+  <img src="https://cdn.simpleicons.org/microsoft/0078D4" height="40" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" />
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="40" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" />
+  <img src="https://cdn.simpleicons.org/vmware/607078" height="40" />
 </p>
 
 ---
