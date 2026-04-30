@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 What I do
+## What I do
 
 - Microsoft 365 administration (Intune, Autopilot, Entra ID)
 - Identity & access management (MFA, roles, Conditional Access)
@@ -37,7 +37,7 @@
 
 ---
 
-## 🧱 Infrastructure
+## Infrastructure
 
 - Microsoft 365 environments (Teams, SharePoint, Exchange)
 - Virtual machines, networking & storage
@@ -46,7 +46,7 @@
 
 ---
 
-## 🧠 Approach
+## Approach
 
 - Focus on real-world environments  
 - End-to-end understanding of systems  
@@ -54,19 +54,13 @@
 
 ---
 
-## 🎯 Focus
+## Focus
 
 Cloud & Infrastructure  
 → transitioning towards Azure-based environments
 
 ---
 
-## 📊 GitHub Stats
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-infra&show_icons=true&theme=dark)
-
----
-
-## 📌 Note
+## Note
 
 This profile is used as a technical portfolio for job opportunities.
