@@ -4,6 +4,7 @@
 > Building real-world lab environments to simulate production systems
 
 ---
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Admin-blue)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud-blue)
 ![Entra ID](https://img.shields.io/badge/Entra%20ID-Identity-purple)
