@@ -4,17 +4,24 @@
 > Specialized in Microsoft 365, Virtualization and modern workplace environments
 
 ---
-
 ## Core Technologies
 
 <p>
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" />
-  <img src="https://cdn.simpleicons.org/microsoft/0078D4" height="40" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" />
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="40" />
   <img src="https://cdn.simpleicons.org/nginx/009639" height="40" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" />
   <img src="https://cdn.simpleicons.org/vmware/607078" height="40" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=flat&logo=microsoft&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Entra%20ID-5C2D91?style=flat&logo=microsoft&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Hyper--V-0089D6?style=flat&logo=windows&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Citrix-0078D4?style=flat&logo=citrix&logoColor=white" height="28"/>
+  <img src="https://cdn.simpleicons.org/microsoft/0078D4" height="40" />
+  
 </p>
 
 ---
