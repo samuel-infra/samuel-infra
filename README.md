@@ -11,6 +11,7 @@ I combine hands-on experience from production environments with lab-based work w
 - Identity & access management (roles, MFA, conditional access basics)
 - Device lifecycle management & deployment
 - Windows environments and advanced troubleshooting
+- Virtualization platforms (Citrix XenServer, Hyper-V)
 
 ---
 
@@ -18,7 +19,7 @@ I combine hands-on experience from production environments with lab-based work w
 I build and document real-world scenarios across:
 
 - Microsoft 365 tenant administration (users, security, Teams, SharePoint, Exchange)
-- Virtualization (Hyper-V / ESXi environments)
+- Virtualization environments (VM deployment, resource allocation, networking)
 - Linux server setup and management
 - Networking fundamentals (segmentation, structure, troubleshooting)
 
@@ -34,7 +35,7 @@ I focus on understanding systems end-to-end:
 
 ---
 
-## Portfolio
+##  Portfolio
 My repositories showcase hands-on environments and technical implementations rather than theory.
 
 ---
