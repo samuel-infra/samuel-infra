@@ -1,52 +1,65 @@
 # Hey 👋
 
-> IT Technician focused on Microsoft 365, Infrastructure and modern workplace environments  
-> Building real-world lab environments to simulate production systems
-
----
-![Cisco](https://img.shields.io/badge/Cisco-Networking-blue)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Admin-blue)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud-blue)
-![Entra ID](https://img.shields.io/badge/Entra%20ID-Identity-purple)
-![Intune](https://img.shields.io/badge/Intune-Endpoint%20Management-blue)
-
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
-![Networking](https://img.shields.io/badge/Networking-Fundamentals-green)
-
-![Hyper-V](https://img.shields.io/badge/Hyper--V-Virtualization-purple)
-![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-Virtualization-black)
-![Citrix XenServer](https://img.shields.io/badge/Citrix%20XenServer-Virtualization-darkblue)
-
-![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-green)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-![DNS](https://img.shields.io/badge/DNS-Bind9-red)
-![DHCP](https://img.shields.io/badge/DHCP-Server-yellow)
-![Microsoft 365](https://img.shields.io/badge/Microsoft-365-blue)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
-![Virtualization](https://img.shields.io/badge/Virtualization-Hyper--V%20%7C%20ESXi-purple)
+> Cloud & Infrastructure focused IT Technician  
+> Building real-world environments across Microsoft 365, Linux and Virtualization
 
 ---
 
-## What I do
+## 🚀 Featured Areas
+
+- 🔹 Virtualization (Hyper-V, VMware ESXi, Citrix)
+- 🔹 Linux Server Administration
+- 🔹 Microsoft 365 & Modern Workplace
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,linux,windows" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entra%20ID-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Hyper--V-0089D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Citrix-0078D4?style=for-the-badge&logo=citrix&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+---
+
+## 🧱 What I do
 
 - Microsoft 365 administration (Intune, Autopilot, Entra ID)
 - Identity & access management (MFA, roles, Conditional Access)
-- Device lifecycle & deployment
-- Virtualization (Citrix XenServer, Hyper-V)
+- Device lifecycle management & deployment
+- Virtualization and infrastructure setup
 - Windows environments & advanced troubleshooting
 
 ---
 
-## Infrastructure
+## 🏗️ Infrastructure Experience
 
 - Microsoft 365 environments (Teams, SharePoint, Exchange)
-- Virtual machines, networking & storage
-- Linux servers (DNS, DHCP, Web, Database)
-- Networking fundamentals & troubleshooting
+- Virtual machines, networking and storage
+- Linux server services (DNS, DHCP, Web, Database)
+- Network structure and troubleshooting
 
 ---
 
-## Approach
+## 🧠 Approach
 
 - Focus on real-world environments  
 - End-to-end understanding of systems  
@@ -54,13 +67,19 @@
 
 ---
 
-## Focus
+## 🎯 Focus
 
 Cloud & Infrastructure  
 → transitioning towards Azure-based environments
 
 ---
 
-## Note
+## 📊 GitHub Stats
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-infra&show_icons=true&theme=dark)
+
+---
+
+## 📌 Note
 
 This profile is used as a technical portfolio for job opportunities.
