@@ -15,7 +15,7 @@ I work hands-on with Microsoft 365, device management and modern workplace envir
 ---
 
 ## Currently learning
-- Azure (AZ-104 path)
+- Azure
 - Linux administration
 - Networking fundamentals
 - Virtualization (Hyper-V / ESXi)
@@ -31,7 +31,7 @@ I document real-world inspired lab environments in my repositories below, includ
 ---
 
 ## Mindset
-I focus on understanding how systems actually work in real environments — not just theory.
+I focus on understanding how systems actually work in real environments not just theory.
 
 ---
 
