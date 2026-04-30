@@ -1,46 +1,48 @@
 # Hey 👋
 
-I'm Samuel — an IT Technician transitioning into Cloud & Infrastructure.
+I'm Samuel — working within IT operations with a strong focus on Microsoft 365, infrastructure and modern workplace environments.
 
-I work hands-on with Microsoft 365, device management and modern workplace environments, and I'm currently building deeper skills in cloud, networking, Linux and virtualization.
-
----
-
-## What I do
-- Microsoft 365 (Intune, Autopilot, Entra ID)
-- Windows environments & troubleshooting
-- Device lifecycle & deployment
-- Hands-on lab environments in cloud & infrastructure
+I combine hands-on experience from production environments with lab-based work where I design, build and test complete IT setups.
 
 ---
 
-## Currently learning
-- Azure
-- Linux administration
-- Networking fundamentals
-- Virtualization (Hyper-V / ESXi)
+## What I work with
+- Microsoft 365 administration (Intune, Autopilot, Entra ID)
+- Identity & access management (roles, MFA, conditional access basics)
+- Device lifecycle management & deployment
+- Windows environments and advanced troubleshooting
 
 ---
 
-## Projects
-I document real-world inspired lab environments in my repositories below, including:
-- Microsoft 365 administration
-- Infrastructure setups
-- System configuration & troubleshooting
+## Infrastructure & Labs
+I build and document real-world scenarios across:
+
+- Microsoft 365 tenant administration (users, security, Teams, SharePoint, Exchange)
+- Virtualization (Hyper-V / ESXi environments)
+- Linux server setup and management
+- Networking fundamentals (segmentation, structure, troubleshooting)
+
+Each project is structured to simulate real company environments — not just isolated lab tasks.
 
 ---
 
-## Mindset
-I focus on understanding how systems actually work in real environments not just theory.
+## Approach
+I focus on understanding systems end-to-end:
+- how identity, devices and services connect
+- how environments are structured in practice
+- how to troubleshoot and improve stability
 
 ---
 
-## Fun facts
-- I enjoy building and testing real IT environments  
-- Always looking to improve and level up  
-- Interested in cloud, infrastructure and automation  
+## Portfolio
+My repositories showcase hands-on environments and technical implementations rather than theory.
+
+---
+
+## Focus
+Cloud & Infrastructure — with a long-term goal of working in Azure-based environments and modern IT operations.
 
 ---
 
 ## Note
-This profile is used as a portfolio for technical work and job-related projects.
+This profile is used as a technical portfolio for job opportunities and professional development.
