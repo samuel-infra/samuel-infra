@@ -4,16 +4,13 @@
 > Building real-world environments across Microsoft 365, Linux and Virtualization
 
 ---
-
-## 🚀 Featured Areas
+## Featured Areas
 
 - 🔹 Virtualization (Hyper-V, VMware ESXi, Citrix)
 - 🔹 Linux Server Administration
 - 🔹 Microsoft 365 & Modern Workplace
-
 ---
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=azure,linux,windows" />
@@ -37,49 +34,35 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
-
 ---
-
-## 🧱 What I do
+## What I do
 
 - Microsoft 365 administration (Intune, Autopilot, Entra ID)
 - Identity & access management (MFA, roles, Conditional Access)
 - Device lifecycle management & deployment
 - Virtualization and infrastructure setup
 - Windows environments & advanced troubleshooting
-
 ---
-
-## 🏗️ Infrastructure Experience
+## Infrastructure Experience
 
 - Microsoft 365 environments (Teams, SharePoint, Exchange)
 - Virtual machines, networking and storage
 - Linux server services (DNS, DHCP, Web, Database)
 - Network structure and troubleshooting
-
 ---
-
-## 🧠 Approach
+## Approach
 
 - Focus on real-world environments  
 - End-to-end understanding of systems  
 - Strong troubleshooting mindset  
 
 ---
-
-## 🎯 Focus
+## Focus
 
 Cloud & Infrastructure  
 → transitioning towards Azure-based environments
-
 ---
 
-## 📊 GitHub Stats
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-infra&show_icons=true&theme=dark)
-
----
-
-## 📌 Note
+## Note
 
 This profile is used as a technical portfolio for job opportunities.
