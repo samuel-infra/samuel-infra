@@ -62,23 +62,32 @@
 
 ## Featured Projects
 
-### ☁️ [Azure Infrastructure Lab](https://github.com/samuel-infra/azure-infrastructure-lab)
-Two-server Azure environment with private networking, NSG security, Windows Server, SQL Server, Azure Files and PowerShell connectivity validation.
-
-### 🖥️ [Windows Server Lab](https://github.com/samuel-infra/Windows-Server-lab)
-Hands-on Windows Server environment covering Active Directory, DNS, DHCP, Group Policy and Windows client integration.
-
-### ⚙️ [Virtualization Labs](https://github.com/samuel-infra/Virtualization-labs)
-Infrastructure labs using Hyper-V and VMware ESXi with virtual machines, networking, storage and snapshots/checkpoints.
-
-### 🐧 [Linux Administration](https://github.com/samuel-infra/Linux-administration)
-Linux server administration with DNS, DHCP, web and database services.
-
-### ☁️ [Microsoft 365 Cloud Services](https://github.com/samuel-infra/M365-Cloud-Services)
-Microsoft 365 administration and cloud services with a focus on practical configuration and identity.
-
-### 🌐 [Networking Labs](https://github.com/samuel-infra/Networking-labs)
-Hands-on networking labs focused on network configuration, structure, connectivity and troubleshooting.
+<table>
+<tr>
+<td width="55" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="38" alt="Azure"></td>
+<td><strong><a href="https://github.com/samuel-infra/azure-infrastructure-lab">Azure Infrastructure Lab</a></strong><br><sub>Two-server Azure environment with private networking, NSG security, Windows Server, SQL Server, Azure Files and PowerShell connectivity validation.</sub></td>
+</tr>
+<tr>
+<td width="55" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="38" alt="Windows Server"></td>
+<td><strong><a href="https://github.com/samuel-infra/Windows-Server-lab">Windows Server Lab</a></strong><br><sub>Hands-on Windows Server environment covering Active Directory, DNS, DHCP, Group Policy and Windows client integration.</sub></td>
+</tr>
+<tr>
+<td width="55" align="center"><img src="https://cdn.simpleicons.org/vmware/607078" width="38" alt="VMware"></td>
+<td><strong><a href="https://github.com/samuel-infra/Virtualization-labs">Virtualization Labs</a></strong><br><sub>Infrastructure labs using Hyper-V and VMware ESXi with virtual machines, networking, storage and snapshots/checkpoints.</sub></td>
+</tr>
+<tr>
+<td width="55" align="center"><img src="https://cdn.simpleicons.org/linux/FCC624" width="38" alt="Linux"></td>
+<td><strong><a href="https://github.com/samuel-infra/Linux-administration">Linux Administration</a></strong><br><sub>Linux server administration with DNS, DHCP, web and database services.</sub></td>
+</tr>
+<tr>
+<td width="55" align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-365.svg" width="38" alt="Microsoft 365"></td>
+<td><strong><a href="https://github.com/samuel-infra/M365-Cloud-Services">Microsoft 365 Cloud Services</a></strong><br><sub>Microsoft 365 administration and cloud services with a focus on practical configuration and identity.</sub></td>
+</tr>
+<tr>
+<td width="55" align="center"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="38" alt="Networking"></td>
+<td><strong><a href="https://github.com/samuel-infra/Networking-labs">Networking Labs</a></strong><br><sub>Hands-on networking labs focused on network configuration, structure, connectivity and troubleshooting.</sub></td>
+</tr>
+</table>
 
 ---
 
