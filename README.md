@@ -8,13 +8,13 @@
 ## Core Technologies
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="42" alt="Microsoft Azure" title="Microsoft Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="42" alt="Microsoft Azure" title="Microsoft Azure" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoft/5E5E5E" height="42" alt="Microsoft 365" title="Microsoft 365" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-365.svg" height="42" alt="Microsoft 365" title="Microsoft 365" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="42" alt="PowerShell" title="PowerShell" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="42" alt="PowerShell" title="PowerShell" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/windows/0078D4" height="42" alt="Windows Server" title="Windows Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="42" alt="Windows Server" title="Windows Server" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/vmware/607078" height="42" alt="VMware" title="VMware ESXi" />
   &nbsp;&nbsp;
