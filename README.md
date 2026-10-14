@@ -87,6 +87,18 @@
 <td width="55" align="center"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="38" alt="Networking"></td>
 <td><strong><a href="https://github.com/samuel-infra/Networking-labs">Networking Labs</a></strong><br><sub>Hands-on networking labs focused on network configuration, structure, connectivity and troubleshooting.</sub></td>
 </tr>
+<tr>
+<td width="55" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="38" alt="AWS"></td>
+<td><strong><a href="https://github.com/samuel-infra/aws-infrastructure-lab">AWS Infrastructure Lab</a></strong><br><sub>Amazon VPC, EC2, security groups, EBS-backed SMB sharing, Windows Server and SQL Server database validation.</sub></td>
+</tr>
+<tr>
+<td width="55" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="38" alt="Google Cloud"></td>
+<td><strong><a href="https://github.com/samuel-infra/google-cloud-infrastructure-lab">Google Cloud Infrastructure Lab</a></strong><br><sub>Compute Engine, private VPC networking, Cloud Storage FUSE, IAM troubleshooting and Cloud SQL for SQL Server.</sub></td>
+</tr>
+<tr>
+<td width="55" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="38" alt="PowerShell"></td>
+<td><strong><a href="https://github.com/samuel-infra/azure-powershell-automation">Azure PowerShell Automation</a></strong><br><sub>Automated Azure resource provisioning with PowerShell, including networking, NSG, Windows Server VM and storage.</sub></td>
+</tr>
 </table>
 
 ---
